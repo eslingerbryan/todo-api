@@ -9,12 +9,18 @@ In a separate repo, create a single-page application using ReactJS (https://face
 ## Requirements
 Your single page application should give the ability to:
 1. View all todo list items
-2. Filter todo items by "done" status
-3. Create a new todo item
-3. Update todo item description
-4. Toggle the "done" status
-5. Delete a selected todo item
-6. Delete all "done" items
+
+1. Filter todo items by "done" status
+
+1. Create a new todo item
+
+1. Update todo item description
+
+1. Toggle the "done" status
+
+1. Delete a selected todo item
+
+1. Delete all "done" items
 
 ## Design
 Pixel perfect design is not the goal with this exercise, but generally the resulting front end should like this example:
