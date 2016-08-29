@@ -1,0 +1,25 @@
+.env
+env-prod
+*.swp
+*.swo
+*.swm
+.statics/
+*.pyc
+db.sqlite3
+.DS_STORE
+rainierkeys-dev.py
+setup_env.sh
+staticfiles-temp/*
+venv/*
+node_modules/*/*
+*.orig
+*.sublime-project
+*.sublime-workspace
+src
+
+# Pytest
+.coverage
+.cache/
+
+# Pycharm settings files
+.idea/
